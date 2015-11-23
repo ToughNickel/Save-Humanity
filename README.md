@@ -24,16 +24,16 @@ P and V contain at most 100000 characters each.
 All characters in P and V are lowercase letters.
 
 Sample Input
-
 3  
 abbab ba
 hello world
 banana nan
-Sample Output
 
+Sample Output
 1 2
 No Match!
 0 2
+
 Explanation 
 For the first case, the substrings of P starting at indices 1 and 2 are "bb" and "ba" and they are matching with the string V which is "ba". 
 For the second case, there are no matching substrings so the output is a blank line.
