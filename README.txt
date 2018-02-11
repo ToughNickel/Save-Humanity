@@ -1,4 +1,4 @@
-#Save-Humanity
+Save-Humanity
 It's a problem from HackerRank
 
 Which states that :
